@@ -1,174 +1,175 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en">
+<TS version="2.1" language="ru">
 <context>
     <name>AboutPage</name>
     <message>
         <source>Development</source>
-        <translation>Development</translation>
+        <translation>Разработка</translation>
     </message>
     <message>
         <source>A simple tool for planning what to do next.</source>
-        <translation>A simple tool for planning what to do next.</translation>
+        <translation>Простой инструмент для планирования дальнейших дел и задач.</translation>
     </message>
     <message>
         <source>Programming</source>
-        <translation>Programming</translation>
+        <translation>Программирование</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Translations</translation>
+        <translation>Переводы</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Polish</translation>
+        <translation>Польский</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation>Swedish</translation>
+        <translation>Шведский</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation>Chinese</translation>
+        <translation>Китайский</translation>
     </message>
     <message>
         <source>German</source>
-        <translation>German</translation>
+        <translation>Немецкий</translation>
     </message>
     <message>
         <source>Norwegian</source>
-        <translation>Norwegian</translation>
+        <translation>Норвежский</translation>
     </message>
     <message>
         <source>English</source>
-        <translation>English</translation>
+        <translation>Английский</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Русский</translation>
     </message>
 </context>
 <context>
     <name>AddItemDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Enter title</source>
-        <translation>Enter title</translation>
+        <translation>Введи заголовок</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation>Заголовок</translation>
     </message>
     <message>
         <source>Enter optional description</source>
-        <translation>Enter optional description</translation>
+        <translation>Введите дополнительное описание</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <source>Scheduled for</source>
-        <translation>Scheduled for</translation>
+        <translation>Запланировано на</translation>
     </message>
     <message>
         <source>today</source>
-        <translation>today</translation>
+        <translation>сегодня</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation>tomorrow</translation>
+        <translation>завтра</translation>
     </message>
     <message>
         <source>this week</source>
-        <translation>this week</translation>
+        <translation>на этой неделе</translation>
     </message>
     <message>
         <source>someday</source>
-        <translation>someday</translation>
+        <translation>когда-нибудь</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation>Project</translation>
+        <translation>Проект</translation>
     </message>
     <message>
         <source>Enable predictive text input</source>
-        <translation>Enable predictive text input</translation>
+        <translation>Включить предиктивный ввод текста</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Add</translation>
+        <translation>Добавить</translation>
     </message>
 </context>
 <context>
     <name>ArchivePage</name>
     <message>
         <source>Archived Entries</source>
-        <translation>Archived Entries</translation>
+        <translation>Архивные записи</translation>
     </message>
     <message>
         <source>No entries yet</source>
-        <translation>No entries yet</translation>
+        <translation>Записей пока нет</translation>
     </message>
     <message>
         <source>This page will show a list of all old entries.</source>
-        <translation>This page will show a list of all old entries.</translation>
+        <translation>На этой странице будет показан список всех старых записей.</translation>
     </message>
 </context>
 <context>
     <name>ConfirmDeleteDialog</name>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Warning</translation>
+        <translation>Внимание</translation>
     </message>
 </context>
 <context>
     <name>EditItemDialog</name>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Save</translation>
+        <translation>Сохранить</translation>
     </message>
 </context>
 <context>
     <name>IntervalCombo</name>
     <message>
         <source>Recurring</source>
-        <translation>Recurring</translation>
+        <translation>Повторяющиеся</translation>
     </message>
     <message>
         <source>once</source>
         <comment>interval for recurring entries</comment>
-        <translation>once</translation>
+        <translation>единоразово</translation>
     </message>
     <message numerus="yes">
         <source>every %n day(s)</source>
         <comment>interval for recurring entries</comment>
         <translation>
-            <numerusform>every day</numerusform>
-            <numerusform>every %n day(s)</numerusform>
+            <numerusform>каждый день</numerusform>
+            <numerusform>каждые %n дня(ей)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -176,178 +177,180 @@
     <name>Opal.About</name>
     <message>
         <source>About</source>
-        <translation>About</translation>
+        <translation>О приложении</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation>Version %1</translation>
+        <translation>Версия %1</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation>Development</translation>
+        <translation>Разработка</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Homepage</translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation>show contributors</translation>
+        <translation>Показать контрибьютеров</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation>Donations</translation>
+        <translation>Пожертвования</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>License</translation>
+        <translation>Лицензия</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
         <translation>
-            <numerusform>show license</numerusform>
-            <numerusform>show licenses</numerusform>
+            <numerusform>Показать лицензию</numerusform>
+            <numerusform>Показать лицензии</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Translations</translation>
+        <translation>Переводы</translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation>Source Code</translation>
+        <translation>Исходный код</translation>
     </message>
     <message>
         <source>show details</source>
-        <translation>show details</translation>
+        <translation>Показать детали</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Contributors</translation>
+        <translation>Контрибьютеры</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation>Acknowledgements</translation>
+        <translation>Благодарности</translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation>Thank you!</translation>
+        <translation>Спасибо вам!</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Details</translation>
+        <translation>Подробно</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
-            <numerusform>License</numerusform>
-            <numerusform>Licenses</numerusform>
+            <numerusform>Лицензия</numerusform>
+            <numerusform>Лицензии</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Note: please check the source code for most accurate information.</translation>
+        <translation>Примечание: для получения наиболее точной информации обращайтесь к исходному коду.</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Please refer to &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+        <translation>Смотри раздел &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Download license texts</source>
-        <translation>Download license texts</translation>
+        <translation>Загрузить тексты лицензий</translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation>External Link</translation>
+        <translation>Внешняя ссылка</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Open in browser</translation>
+        <translation>Открыть в браузере</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation>Copied to clipboard: %1</translation>
+        <translation>Скопировано в буфер обмена: %1</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copy to clipboard</translation>
+        <translation>Скопировать в буфер обмена</translation>
     </message>
     <message>
         <source>Version %1 (%2)</source>
-        <translation>Version %1 (%2)</translation>
+        <translation>Версия %1 (%2)</translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>If you want to support my work, you can buy me a cup of coffee.</translation>
+        <translation>Если вы хотите поддержать мою работу, вы можете задонатить мне на чашечку кофе.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>You can support this project by contributing, or by donating using any of these services.</translation>
+        <translation>Вы можете поддержать этот проект, внеся свой вклад, или пожертвовать, используя любой из этих сервисов.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Your contributions to translations or code would be most welcome.</translation>
+        <translation>Ваш вклад в перевод или код будет только приветствоваться.</translation>
     </message>
 </context>
 <context>
     <name>ProjectsView</name>
     <message>
         <source>Projects</source>
-        <translation>Projects</translation>
+        <translation>Проекты</translation>
     </message>
     <message>
         <source>Add project</source>
-        <translation>Add project</translation>
+        <translation>Добавить проект</translation>
     </message>
     <message>
         <source>All entries belonging to this project will be deleted!</source>
-        <translation>All entries belonging to this project will be deleted!</translation>
+        <translation>Все записи, относящиеся к этому проекту, будут удалены!</translation>
     </message>
     <message>
         <source>mark as active</source>
-        <translation>mark as active</translation>
+        <translation>Отметить как активный</translation>
     </message>
     <message>
         <source>mark as halted</source>
-        <translation>mark as halted</translation>
+        <translation>Отметить как приостановленный</translation>
     </message>
     <message>
         <source>mark as finished</source>
-        <translation>mark as finished</translation>
+        <translation>Отметить как завершённый</translation>
     </message>
     <message>
         <source>edit or delete</source>
-        <translation>edit or delete</translation>
+        <translation>Редактировать или удалить</translation>
     </message>
     <message>
         <source>edit</source>
-        <translation>edit</translation>
+        <translation>Редактировать</translation>
     </message>
     <message>
         <source>No entries</source>
-        <translation>No entries</translation>
+        <translation>Нет записей</translation>
     </message>
     <message>
         <source>This should not be possible. Most probably a database error occurred.</source>
-        <translation>This should not be possible. Most probably a database error occurred.</translation>
+        <translation>Этого не должно быть. Скорее всего, произошла ошибка в базе данных.</translation>
     </message>
     <message>
         <source>Add a project</source>
-        <translation>Add a project</translation>
+        <translation>Добавить проект</translation>
     </message>
 </context>
 <context>
     <name>RecurringsView</name>
     <message>
         <source>Recurring Entries</source>
-        <translation>Recurring Entries</translation>
+        <translation>Повторяющиеся записи</translation>
     </message>
     <message>
         <source>Add recurring entry</source>
-        <translation>Add recurring entry</translation>
+        <translation>Добавить повторяющуюся запись</translation>
     </message>
     <message>
         <source>This will &lt;i&gt;not&lt;/i&gt; delete entries retroactively.</source>
@@ -355,96 +358,96 @@
     </message>
     <message>
         <source>mark as active</source>
-        <translation>mark as active</translation>
+        <translation>Отметить как активный</translation>
     </message>
     <message>
         <source>mark as halted</source>
-        <translation>mark as halted</translation>
+        <translation>Отметить как приостановленный</translation>
     </message>
     <message>
         <source>mark as done</source>
-        <translation>mark as done</translation>
+        <translation>Отметить как завершённый</translation>
     </message>
     <message>
         <source>No entries yet</source>
-        <translation>No entries yet</translation>
+        <translation>Записей ещё нет</translation>
     </message>
     <message>
         <source>This page will show a list of all recurring entries.</source>
-        <translation>This page will show a list of all recurring entries.</translation>
+        <translation>На этой странице будет показан список всех повторяющихся записей.</translation>
     </message>
     <message>
         <source>press and hold to edit or delete</source>
-        <translation>press and hold to edit or delete</translation>
+        <translation>Нажмите и удерживайте для редактирования или удаления</translation>
     </message>
 </context>
 <context>
     <name>StartDateButton</name>
     <message>
         <source>Starting at</source>
-        <translation>Starting at</translation>
+        <translation>Начиная с</translation>
     </message>
 </context>
 <context>
     <name>TodoList</name>
     <message>
         <source>Today</source>
-        <translation>Today</translation>
+        <translation>Сегодня</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Tomorrow</translation>
+        <translation>Завтра</translation>
     </message>
     <message>
         <source>Someday</source>
-        <translation>Someday</translation>
+        <translation>Когда-нибудь</translation>
     </message>
     <message>
         <source>No entries yet</source>
-        <translation>No entries yet</translation>
+        <translation>Записей еще нет</translation>
     </message>
     <message>
         <source>Pull down to add entries</source>
-        <translation>Pull down to add entries</translation>
+        <translation>Потяните вниз, чтобы добавить записи</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>This week</translation>
+        <translation>На этой неделе</translation>
     </message>
 </context>
 <context>
     <name>TodoListItem</name>
     <message>
         <source>continue today</source>
-        <translation>continue today</translation>
+        <translation>продолжить завтра</translation>
     </message>
     <message>
         <source>done</source>
-        <translation>done</translation>
+        <translation>Выполнено</translation>
     </message>
     <message>
         <source>done for today, continue tomorrow</source>
-        <translation>done for today, continue tomorrow</translation>
+        <translation>Закончить на сегодня, продолжить завтра</translation>
     </message>
     <message>
         <source>move to someday later</source>
-        <translation>move to someday later</translation>
+        <translation>Перенести на потом</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation>ignore</translation>
+        <translation>Игнорировать</translation>
     </message>
     <message>
         <source>continue tomorrow</source>
-        <translation>continue tomorrow</translation>
+        <translation>Продолжить завтра</translation>
     </message>
     <message>
         <source>continue next day</source>
-        <translation>continue next day</translation>
+        <translation>Продолжить на следующий день</translation>
     </message>
     <message>
         <source>not completely done yet</source>
-        <translation>not completely done yet</translation>
+        <translation>Еще не полностью выполнено</translation>
     </message>
     <message>
         <source>⭑ %1, %2</source>
@@ -452,126 +455,131 @@
     </message>
     <message>
         <source>from today</source>
-        <translation>from today</translation>
+        <translation>с сегодняшнего дня</translation>
     </message>
     <message>
         <source>from this day</source>
-        <translation>from this day</translation>
+        <translation>с этого дня</translation>
     </message>
     <message>
         <source>from yesterday</source>
-        <translation>from yesterday</translation>
+        <translation>со вчерашнего дня</translation>
     </message>
     <message>
         <source>from last day</source>
-        <translation>from last day</translation>
+        <translation>с прошлого дня</translation>
     </message>
     <message>
         <source>from earlier</source>
-        <translation>from earlier</translation>
+        <translation>с предыдущего</translation>
     </message>
     <message>
         <source>for today</source>
-        <translation>for today</translation>
+        <translation>на сегодня</translation>
     </message>
     <message>
         <source>for this day</source>
-        <translation>for this day</translation>
+        <translation>на этот день</translation>
     </message>
     <message>
         <source>for someday later</source>
-        <translation>for someday later</translation>
+        <translation>когда-нибудь потом</translation>
     </message>
     <message>
         <source>carried over</source>
-        <translation>carried over</translation>
+        <translation>перенесённый</translation>
     </message>
     <message>
         <source>ignored today</source>
-        <translation>ignored today</translation>
+        <translation>Проигнорировано сегодня</translation>
     </message>
     <message>
         <source>ignored this day</source>
-        <translation>ignored this day</translation>
+        <translation>Проигнорировано в этот день</translation>
     </message>
     <message>
         <source>to be done tomorrow</source>
-        <translation>to be done tomorrow</translation>
+        <translation>Будет выполнено завтра</translation>
     </message>
     <message>
         <source>to be done next day</source>
-        <translation>to be done next day</translation>
+        <translation>Будет выполнена на следующий день</translation>
     </message>
     <message>
         <source>to be done someday later</source>
-        <translation>to be done someday later</translation>
+        <translation>Будет выполнено когда-нибудь потом</translation>
     </message>
     <message>
         <source>done today</source>
-        <translation>done today</translation>
+        <translation>Выполнено сегодня</translation>
     </message>
     <message>
         <source>done this day</source>
-        <translation>done this day</translation>
+        <translation>Выполнено в этот день</translation>
     </message>
     <message>
         <source>press and hold to edit or delete</source>
-        <translation>press and hold to edit or delete</translation>
+        <translation>Нажмите и удерживайте для редактирования или удаления</translation>
     </message>
     <message>
         <source>handle today</source>
-        <translation>handle today</translation>
+        <translation>Выполнить сегодня</translation>
     </message>
     <message>
         <source>continue later this week</source>
-        <translation>continue later this week</translation>
+        <translation>Продолжить позже на этой неделе</translation>
     </message>
     <message>
         <source>handle later this week</source>
-        <translation>handle later this week</translation>
+        <translation>Обработать позднее на этой неделе</translation>
     </message>
     <message>
         <source>to be done later this week</source>
-        <translation>to be done later this week</translation>
+        <translation>Будет выполнено в конце этой недели</translation>
     </message>
     <message>
         <source>continue someday later</source>
-        <translation>continue someday later</translation>
+        <translation>Продолжить когда-нибудь позже</translation>
     </message>
 </context>
 <context>
     <name>TodoListView</name>
     <message>
         <source>Show old entries</source>
-        <translation>Show old entries</translation>
+        <translation>Показать старые записи</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>About</translation>
+        <translation>О приложении</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Note</translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>Add entry</source>
-        <translation>Add entry</translation>
+        <translation>Добавить запись</translation>
     </message>
     <message>
         <source>Swipe left to add recurring entries. You can specify an interval in which they will be added automatically to the current to-do list.</source>
-        <translation>Swipe left to add recurring entries. You can specify an interval in which they will be added automatically to the current to-do list.</translation>
+        <translation>Проведите пальцем влево, чтобы добавить повторяющиеся записи. Можно указать интервал, через который они будут автоматически добавляться в текущий список дел.</translation>
     </message>
 </context>
 <context>
     <name>harbour-todolist</name>
     <message>
         <source>Database Error</source>
-        <translation>Database Error</translation>
+        <translation>Ошибка базы данных</translation>
+    </message>
+    <message>
+        <source>To-do List</source>
+        <comment>the app&apos;s name</comment>
+        <translation>Список дел</translation>
     </message>
     <message>
         <source>d MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</source>
         <comment>date format including date and time but no weekday</comment>
-        <translation>d MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</translation>
+        <translation>d. MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</translation>
     </message>
     <message>
         <source>hh&apos;:&apos;mm</source>
@@ -581,100 +589,95 @@
     <message>
         <source>ddd d MMM yyyy</source>
         <comment>date format including weekday</comment>
-        <translation>ddd d MMM yyyy</translation>
+        <translation>ddd, d. MMM yyyy</translation>
     </message>
     <message>
         <source>d MMM yyyy</source>
         <comment>date format without weekday</comment>
-        <translation>d MMM yyyy</translation>
-    </message>
-    <message>
-        <source>To-do List</source>
-        <comment>the app&apos;s name</comment>
-        <translation>To-do List</translation>
+        <translation>d. MMM yyyy</translation>
     </message>
 </context>
 <context>
     <name>storage</name>
     <message>
         <source>Default</source>
-        <translation>Default</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <source>Failed to initialize database</source>
-        <translation>Failed to initialize database</translation>
+        <translation>Не удалось инициализировать базу данных</translation>
     </message>
     <message>
         <source>Empty database query</source>
-        <translation>Empty database query</translation>
+        <translation>Пустой запрос к базе данных</translation>
     </message>
     <message>
         <source>This is a programming error. Please file a bug report.</source>
-        <translation>This is a programming error. Please file a bug report.</translation>
+        <translation>Это ошибка программирования. Пожалуйста, отправьте сообщение об ошибке.</translation>
     </message>
     <message>
         <source>Database access failed</source>
-        <translation>Database access failed</translation>
+        <translation>Не удалось получить доступ к базе данных</translation>
     </message>
     <message>
         <source>Failed to update project</source>
-        <translation>Failed to update project</translation>
+        <translation>Не удалось обновить проект</translation>
     </message>
     <message>
         <source>No internal project ID was provided.</source>
-        <translation>No internal project ID was provided.</translation>
+        <translation>Внутренний идентификатор проекта не был указан.</translation>
     </message>
     <message>
         <source>Failed to delete project</source>
-        <translation>Failed to delete project</translation>
+        <translation>Не удалось удалить проект</translation>
     </message>
     <message>
         <source>The default project cannot be deleted.</source>
-        <translation>The default project cannot be deleted.</translation>
+        <translation>Проект по умолчанию не может быть удален.</translation>
     </message>
     <message>
         <source>Failed to update recurring entry</source>
-        <translation>Failed to update recurring entry</translation>
+        <translation>Не удалось обновить повторяющуюся запись</translation>
     </message>
     <message>
         <source>No internal entry ID was provided.</source>
-        <translation>No internal entry ID was provided.</translation>
+        <translation>Внутренний идентификатор входа не был указан.</translation>
     </message>
     <message>
         <source>Failed to delete recurring entry</source>
-        <translation>Failed to delete recurring entry</translation>
+        <translation>Не удалось удалить повторяющуюся запись</translation>
     </message>
     <message>
         <source>Failed to update entry</source>
-        <translation>Failed to update entry</translation>
+        <translation>Не удалось обновить запись</translation>
     </message>
     <message>
         <source>Failed to delete entry</source>
-        <translation>Failed to delete entry</translation>
+        <translation>Не удалось удалить запись</translation>
     </message>
     <message>
         <source>Failed to carry over old entries</source>
-        <translation>Failed to carry over old entries</translation>
+        <translation>Не удалось перенести старые записи</translation>
     </message>
     <message>
         <source>Copying old entries failed.</source>
-        <translation>Copying old entries failed.</translation>
+        <translation>Копирование старых записей не удалось.</translation>
     </message>
     <message>
         <source>Updating old entries failed.</source>
-        <translation>Updating old entries failed.</translation>
+        <translation>Обновление старых записей не удалось.</translation>
     </message>
     <message>
         <source>Failed to update recurring entries</source>
-        <translation>Failed to update recurring entries</translation>
+        <translation>Не удалось обновить повторяющиеся записи</translation>
     </message>
     <message>
         <source>Copying new entries failed.</source>
-        <translation>Copying new entries failed.</translation>
+        <translation>Копирование новых записей не удалось.</translation>
     </message>
     <message>
         <source>Updating reference entries failed.</source>
-        <translation>Updating reference entries failed.</translation>
+        <translation>Не удалось обновить ссылки на записи.</translation>
     </message>
 </context>
 </TS>

@@ -10,7 +10,7 @@ Name:       harbour-todolist
 %define __provides_exclude_from ^%{_datadir}/.*$
 
 Summary:    A simple todo list manager
-Version:    1.2.0
+Version:    1.2.1
 Release:    1
 Group:      Applications/Productivity
 License:    GPL-3.0-or-later
@@ -25,7 +25,8 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-A simple todo list manager with support for multiple projects.
+EN: A simple todo list manager with support for multiple projects.
+RUS: Простой менеджер списков дел с поддержкой нескольких проектов.
 
 
 %prep

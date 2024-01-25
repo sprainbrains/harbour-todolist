@@ -26,6 +26,7 @@ TRANSLATIONS += translations/harbour-todolist-en.ts \
     translations/harbour-todolist-sv.ts \
     translations/harbour-todolist-pl.ts \
     translations/harbour-todolist-no.ts \
+    translations/harbour-todolist-ru.ts \
 
 CONFIG += c++11
 include(libs/SortFilterProxyModel/SortFilterProxyModel.pri)
