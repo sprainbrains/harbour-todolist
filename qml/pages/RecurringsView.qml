@@ -105,8 +105,6 @@ SilicaListView {
                     text: qsTr("press and hold to edit or delete")
                     font.pixelSize: Theme.fontSizeSmall
                     truncationMode: TruncationMode.Fade
-                    _elideText: false
-                    _fadeText: true
                 }
             }
         }

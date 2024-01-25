@@ -158,8 +158,6 @@ TodoListBaseItem {
                 }
                 font.pixelSize: Theme.fontSizeSmall
                 truncationMode: TruncationMode.Fade
-                _elideText: false
-                _fadeText: true
             }
         }
     }
